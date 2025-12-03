@@ -1,4 +1,4 @@
-<img width="1599" height="1553" alt="image" src="https://github.com/user-attachments/assets/6d13cf53-97a0-49e4-b484-d2c2a76fd9a6" /># RFID_BOX by [gravey4rd](https://github.com/gravey4rd)
+# RFID_BOX by [gravey4rd](https://github.com/gravey4rd)
 A portable, standalone RFID/NFC analysis and cloning tool based on ESP32-C3 and PN532.
 
 ## Prototype
