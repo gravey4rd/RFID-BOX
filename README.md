@@ -1,9 +1,6 @@
 # RFID_BOX by [gravey4rd](https://github.com/gravey4rd)
 A portable, standalone RFID/NFC analysis and cloning tool based on ESP32-C3 and PN532.
 
-<!-- Buraya projenin fotoğrafını ekleyeceksin, aşağıya örnek bir placeholder koydum -->
-<img width="100%" alt="RFID_BOX Device" src="https://github.com/user-attachments/assets/placeholder-image-id" />
-
 ## Description
 RFID_BOX is a compact security tool designed for testing, cloning, and analyzing 13.56MHz Mifare tags. Unlike simple cloners, this device features an SD card database, allowing you to store unlimited UIDs, edit their names, and manage them directly from the device. It also includes offensive capabilities for security auditing, such as brute-forcing sector keys and stress-testing tags.
 
@@ -55,7 +52,7 @@ The source code and hardware designs provided in this repository are for **educa
     *   `Adafruit GFX Library`
     *   `Adafruit SSD1306`
     *   `Adafruit PN532`
-4.  Select Board: `ESP32C3 Dev Module` (or SuperMini specific if available).
+4.  Select Board: `ESP32-C3 Supermini` 
 5.  **Important:** Ensure `USB CDC On Boot` is enabled if you want Serial debugging, though the device works standalone.
 6.  Connect your ESP32-C3 and click **Upload**.
 
