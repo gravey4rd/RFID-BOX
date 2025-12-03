@@ -2,8 +2,8 @@
 A portable, standalone RFID/NFC analysis and cloning tool based on ESP32-C3 and PN532.
 
 ## Prototype
-![f817f41f-7b6c-49c8-9c5e-5db205441169](https://github.com/user-attachments/assets/4019a3c7-b499-401d-b1f8-b37f018e297e)
-![363721f2-cbf7-45c6-ab4c-56ee8f4037ea](https://github.com/user-attachments/assets/fd88863c-f532-4559-a88b-e1dade1072ae)
+<img width="50%" alt="RFID_BOX Device" src="https://github.com/user-attachments/assets/4019a3c7-b499-401d-b1f8-b37f018e297e" />
+<img width="50%" alt="RFID_BOX Device" src="https://github.com/user-attachments/assets/fd88863c-f532-4559-a88b-e1dade1072ae" />
 
 ## Description
 RFID_BOX is a compact security tool designed for testing, cloning, and analyzing 13.56MHz Mifare tags. Unlike simple cloners, this device features an SD card database, allowing you to store unlimited UIDs, edit their names, and manage them directly from the device. It also includes offensive capabilities for security auditing, such as brute-forcing sector keys and stress-testing tags.
